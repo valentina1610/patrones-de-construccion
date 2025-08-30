@@ -2,17 +2,16 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Channels;
 using System.Threading.Tasks;
 using FactoryPattern.Interfaces;
 
-namespace FactoryPattern.Family_Google
+namespace FactoryPattern.Family_MapBox
 {
-    public class GoogleGeocoder : IGeoCoder
+    public class MapBoxGeocoder : IGeoCoder
     {
         public string Buscar(string textoDireccion)
         {
-            return ($"Coords Google: -38.00, -57.55 para {textoDireccion}");
+            return ($"Coords MapBox: -38.00, -57.55 para {textoDireccion}");
         }
     }
 }

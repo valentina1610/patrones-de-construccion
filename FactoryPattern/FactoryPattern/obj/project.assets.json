@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectPath": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\gc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\obj\\",
+      "outputPath": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

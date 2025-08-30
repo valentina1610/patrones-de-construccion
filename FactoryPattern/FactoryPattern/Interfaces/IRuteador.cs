@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern.Interfaces
 {
-    public interface IMapServicesFactory
+    public interface IRuteador
     {
-        public IMapa CreateMapa();
-        public IGeoCoder CreateGeocoder();
-        public IRuteador CreateRuteador();
-        
+        public void CalcularRuta(string desde, string hasta);
     }
 }

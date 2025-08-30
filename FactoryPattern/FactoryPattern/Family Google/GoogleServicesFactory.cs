@@ -18,5 +18,10 @@ namespace FactoryPattern.Family_Google
         {
             return new GoogleGeocoder();
         }
+        
+        public IRuteador CreateRuteador()
+        {
+            return new GoogleRuteador();
+        }
     }
 }

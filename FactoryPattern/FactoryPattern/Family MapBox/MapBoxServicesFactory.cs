@@ -3,24 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FactoryPattern.Family_Google;
 using FactoryPattern.Interfaces;
-using FactoryPattern.Family_OpenStreetMap;
 
-namespace FactoryPattern.Family_OpenStreetMap
+namespace FactoryPattern.Family_MapBox
 {
-    public class OsmMapServicesFactory : IMapServicesFactory
+    public class MapBoxServicesFactory : IMapServicesFactory
     {
         public IMapa CreateMapa()
         {
-            return new OsmMapa();
+            return new MapBoxMapa();
         }
         public IGeoCoder CreateGeocoder()
         {
-            return new OsmGeocoder();
+            return new MapBoxGeocoder();
         }
         public IRuteador CreateRuteador()
         {
-            return new OsmRuteador();
+            return new MapBoxRuteador();
         }
     }
 }

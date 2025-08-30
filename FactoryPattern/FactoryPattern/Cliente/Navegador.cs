@@ -11,17 +11,20 @@ namespace FactoryPattern.Cliente
     {
         private IMapa map;
         private IGeoCoder geocoder;
+        private IRuteador ruteador;
 
         public Navegador(IMapServicesFactory factory)
         {
             map = factory.CreateMapa();
             geocoder = factory.CreateGeocoder();
+            ruteador = factory.CreateRuteador();
         }
 
-        public void Explorar(string ubicacion, string consultaDireccion)
+        public void Explorar(string ubicacion, string consultaDireccion, string desde, string hasta)
         {
             map.Render(ubicacion);
             Console.WriteLine(geocoder.Buscar(consultaDireccion));
+            ruteador.CalcularRuta(desde, hasta);
         }
 
     }

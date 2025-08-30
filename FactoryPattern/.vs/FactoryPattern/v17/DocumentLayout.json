@@ -1,53 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\",
+  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\interfaces\\imapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\interfaces\\imapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\cliente\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\cliente\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\family openstreetmap\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family openstreetmap\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\family google\\googleservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family google\\googleservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\family google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\family google\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family google\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\family openstreetmap\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family openstreetmap\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\interfaces\\igeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\interfaces\\igeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\factorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\factorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\factorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\family openstreetmap\\osmmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\cliente\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\cliente\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family openstreetmap\\osmruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family openstreetmap\\osmruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family openstreetmap\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family openstreetmap\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family mapbox\\mapboxruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family mapbox\\mapboxruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family mapbox\\mapboxservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family mapbox\\mapboxservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family google\\googleservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family google\\googleservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family google\\googleruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family google\\googleruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family google\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family google\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\interfaces\\iruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\interfaces\\iruteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\interfaces\\imapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\interfaces\\imapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family mapbox\\mapboxgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family mapbox\\mapboxgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family openstreetmap\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family openstreetmap\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family mapbox\\mapboxmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family mapbox\\mapboxmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\family openstreetmap\\osmmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\family openstreetmap\\osmmapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\factorypattern\\factorypattern\\interfaces\\imapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\interfaces\\igeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\interfaces\\igeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\factorypattern\\factorypattern\\interfaces\\imapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91F8850A-111F-4C38-B5EA-A38593124674}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\interfaces\\imapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -61,82 +89,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Navegador.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Cliente\\Navegador.cs",
-              "RelativeDocumentMoniker": "FactoryPattern\\Cliente\\Navegador.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Cliente\\Navegador.cs",
-              "RelativeToolTip": "FactoryPattern\\Cliente\\Navegador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "GoogleRuteador.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleRuteador.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family Google\\GoogleRuteador.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleRuteador.cs",
+              "RelativeToolTip": "FactoryPattern\\Family Google\\GoogleRuteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T21:41:34.977Z",
+              "WhenOpened": "2025-08-30T16:58:53.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Program.cs",
-              "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Program.cs",
-              "RelativeToolTip": "FactoryPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T20:50:54.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "GoogleServicesFactory.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleServicesFactory.cs",
               "RelativeDocumentMoniker": "FactoryPattern\\Family Google\\GoogleServicesFactory.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleServicesFactory.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleServicesFactory.cs",
               "RelativeToolTip": "FactoryPattern\\Family Google\\GoogleServicesFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T21:12:18.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IMapServicesFactory.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
-              "RelativeDocumentMoniker": "FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
-              "RelativeToolTip": "FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GoogleMaps.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleMaps.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family Google\\GoogleMaps.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleMaps.cs",
+              "RelativeToolTip": "FactoryPattern\\Family Google\\GoogleMaps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T20:58:02.859Z",
+              "WhenOpened": "2025-08-29T21:03:16.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OsmMapServicesFactory.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
-              "RelativeDocumentMoniker": "FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
-              "RelativeToolTip": "FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T21:40:26.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "GoogleGeocoder.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleGeocoder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleGeocoder.cs",
               "RelativeDocumentMoniker": "FactoryPattern\\Family Google\\GoogleGeocoder.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleGeocoder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleGeocoder.cs",
               "RelativeToolTip": "FactoryPattern\\Family Google\\GoogleGeocoder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T21:08:27.557Z",
               "EditorCaption": ""
@@ -144,23 +146,153 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GoogleMaps.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleMaps.cs",
-              "RelativeDocumentMoniker": "FactoryPattern\\Family Google\\GoogleMaps.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family Google\\GoogleMaps.cs",
-              "RelativeToolTip": "FactoryPattern\\Family Google\\GoogleMaps.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Title": "MapBoxServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxServicesFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family MapBox\\MapBoxServicesFactory.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxServicesFactory.cs",
+              "RelativeToolTip": "FactoryPattern\\Family MapBox\\MapBoxServicesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T21:03:16.126Z",
+              "WhenOpened": "2025-08-30T16:54:25.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "OsmMapServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
+              "RelativeToolTip": "FactoryPattern\\Family OpenStreetMap\\OsmMapServicesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:40:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Navegador.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Cliente\\Navegador.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Cliente\\Navegador.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Cliente\\Navegador.cs",
+              "RelativeToolTip": "FactoryPattern\\Cliente\\Navegador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:41:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Program.cs",
+              "RelativeToolTip": "FactoryPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:50:54.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OsmRuteador.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmRuteador.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family OpenStreetMap\\OsmRuteador.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmRuteador.cs",
+              "RelativeToolTip": "FactoryPattern\\Family OpenStreetMap\\OsmRuteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:59:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactoryPattern.csproj",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+              "RelativeDocumentMoniker": "FactoryPattern\\FactoryPattern.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
+              "RelativeToolTip": "FactoryPattern\\FactoryPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T21:35:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapBoxRuteador.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxRuteador.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family MapBox\\MapBoxRuteador.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxRuteador.cs",
+              "RelativeToolTip": "FactoryPattern\\Family MapBox\\MapBoxRuteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:59:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRuteador.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IRuteador.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Interfaces\\IRuteador.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IRuteador.cs",
+              "RelativeToolTip": "FactoryPattern\\Interfaces\\IRuteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:57:33.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MapBoxMapa.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxMapa.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family MapBox\\MapBoxMapa.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxMapa.cs",
+              "RelativeToolTip": "FactoryPattern\\Family MapBox\\MapBoxMapa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:49:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MapBoxGeocoder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxGeocoder.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Family MapBox\\MapBoxGeocoder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family MapBox\\MapBoxGeocoder.cs",
+              "RelativeToolTip": "FactoryPattern\\Family MapBox\\MapBoxGeocoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:53:29.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMapServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
+              "RelativeToolTip": "FactoryPattern\\Interfaces\\IMapServicesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:58:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "OsmGeocoder.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmGeocoder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmGeocoder.cs",
               "RelativeDocumentMoniker": "FactoryPattern\\Family OpenStreetMap\\OsmGeocoder.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmGeocoder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmGeocoder.cs",
               "RelativeToolTip": "FactoryPattern\\Family OpenStreetMap\\OsmGeocoder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,37 +301,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "IGeoCoder.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Interfaces\\IGeoCoder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IGeoCoder.cs",
               "RelativeDocumentMoniker": "FactoryPattern\\Interfaces\\IGeoCoder.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Interfaces\\IGeoCoder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IGeoCoder.cs",
               "RelativeToolTip": "FactoryPattern\\Interfaces\\IGeoCoder.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAhwAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T20:54:08.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T20:54:08.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FactoryPattern",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
-              "RelativeDocumentMoniker": "FactoryPattern\\FactoryPattern.csproj",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
-              "RelativeToolTip": "FactoryPattern\\FactoryPattern.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-29T21:35:27.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "OsmMapa.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapa.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapa.cs",
               "RelativeDocumentMoniker": "FactoryPattern\\Family OpenStreetMap\\OsmMapa.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapa.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Family OpenStreetMap\\OsmMapa.cs",
               "RelativeToolTip": "FactoryPattern\\Family OpenStreetMap\\OsmMapa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,29 +326,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "IMapa.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapa.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapa.cs",
               "RelativeDocumentMoniker": "FactoryPattern\\Interfaces\\IMapa.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapa.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\FactoryPattern\\FactoryPattern\\Interfaces\\IMapa.cs",
               "RelativeToolTip": "FactoryPattern\\Interfaces\\IMapa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T20:53:52.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T20:53:52.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-08-29T21:17:29.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T21:17:29.559Z"
             }
           ]
         }

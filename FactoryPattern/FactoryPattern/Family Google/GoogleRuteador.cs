@@ -7,11 +7,11 @@ using FactoryPattern.Interfaces;
 
 namespace FactoryPattern.Family_Google
 {
-    public class GoogleMaps : IMapa
+    public class GoogleRuteador : IRuteador
     {
-        public void Render(string ubicacion)
+        public void CalcularRuta(string desde, string hasta)
         {
-            Console.WriteLine($"Google Maps Mostrando: {ubicacion}");
+            Console.WriteLine($"Google Mostrando: ruta desde {desde} hasta {hasta}");
         }
     }
 }
