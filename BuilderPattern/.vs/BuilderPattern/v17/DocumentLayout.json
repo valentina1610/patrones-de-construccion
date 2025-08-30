@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\builderpattern\\builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\builderpattern\\builderpattern\\builder\\hamburguesagourmetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\hamburguesagourmetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\builderpattern\\builderpattern\\builder\\ihamburguesabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\ihamburguesabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\builderpattern\\builderpattern\\product\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\product\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\builderpattern\\builderpattern\\builder\\hamburguesabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\hamburguesabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\builderpattern\\builderpattern\\builder\\hamburguesaceliacabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\hamburguesaceliacabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\builderpattern\\builderpattern\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF77249-B057-41C8-9503-91BB91971EA2}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HamburguesaGourmetBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\HamburguesaGourmetBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\HamburguesaGourmetBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\HamburguesaGourmetBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\HamburguesaGourmetBuilder.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:25:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Program.cs",
+              "RelativeToolTip": "BuilderPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:20:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHamburguesaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\IHamburguesaBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\IHamburguesaBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\IHamburguesaBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\IHamburguesaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:00:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hamburguesa.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Product\\Hamburguesa.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Product\\Hamburguesa.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Product\\Hamburguesa.cs",
+              "RelativeToolTip": "BuilderPattern\\Product\\Hamburguesa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:39:22.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HamburguesaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\HamburguesaBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\HamburguesaBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\HamburguesaBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\HamburguesaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:09:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HamburguesaCeliacaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\HamburguesaCeliacaBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\HamburguesaCeliacaBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\HamburguesaCeliacaBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\HamburguesaCeliacaBuilder.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:04:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\Director.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\Director.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\BuilderPattern\\BuilderPattern\\Builder\\Director.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:23:23.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
