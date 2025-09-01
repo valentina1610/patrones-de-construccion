@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\singletonpattern\\singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\singletonpattern\\singletonpattern\\singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\singletonpattern\\singletonpattern\\procesadordepedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\procesadordepedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\gc\\source\\repos\\guia patrones construccion\\singletonpattern\\singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57F7408-2518-4660-A0E9-7A8A20A06725}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\Singleton\\Logger.cs",
               "RelativeDocumentMoniker": "SingletonPattern\\Singleton\\Logger.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\Singleton\\Logger.cs",
-              "RelativeToolTip": "SingletonPattern\\Singleton\\Logger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\Singleton\\Logger.cs*",
+              "RelativeToolTip": "SingletonPattern\\Singleton\\Logger.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T19:44:59.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\Program.cs",
               "RelativeDocumentMoniker": "SingletonPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\Program.cs*",
-              "RelativeToolTip": "SingletonPattern\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\Program.cs",
+              "RelativeToolTip": "SingletonPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T19:40:55.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcesadorDePedidos.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\ProcesadorDePedidos.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\ProcesadorDePedidos.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones construccion\\SingletonPattern\\SingletonPattern\\ProcesadorDePedidos.cs*",
+              "RelativeToolTip": "SingletonPattern\\ProcesadorDePedidos.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:17:46.663Z",
               "EditorCaption": ""
             }
           ]

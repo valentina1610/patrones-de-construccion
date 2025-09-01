@@ -1,0 +1,8 @@
+[WARNING][15:26:15] Esto se guarda en el archivo log.txt
+[ERROR][15:26:15] otro mensaje en archivo
+[WARNING][15:28:45] Esto se guarda en el archivo log.txt
+[ERROR][15:28:45] otro mensaje en archivo
+[WARNING][15:32:58] Esto se guarda en el archivo log.txt
+[ERROR][15:32:58] otro mensaje en archivo
+[WARNING][15:35:51] Esto se guarda en el archivo log.txt
+[ERROR][15:35:51] otro mensaje en archivo
